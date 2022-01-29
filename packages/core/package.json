@@ -9,7 +9,7 @@
 		"es6-promise": "^4.2.4",
 		"get-random-values": "^1.2.0",
 		"isomorphic-ws": "^4.0.1",
-		"ws": "^6.1.0"
+		"ws": "^8.4.0"
 	},
 	"files": [
 		"dist"
